@@ -1,2 +1,2 @@
-hi this is very first day of git
+hi this is very 2nd  day of git
 
