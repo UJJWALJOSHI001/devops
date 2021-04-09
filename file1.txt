@@ -1,0 +1,2 @@
+hi this is very first day of git
+
